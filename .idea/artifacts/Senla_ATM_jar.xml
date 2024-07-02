@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Senla_ATM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Senla_ATM_jar</output-path>
+    <root id="archive" name="Senla_ATM.jar">
+      <element id="module-output" name="Senla_ATM" />
+    </root>
+  </artifact>
+</component>
