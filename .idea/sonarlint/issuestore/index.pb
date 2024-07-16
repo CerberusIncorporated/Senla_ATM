@@ -33,3 +33,5 @@ u
 Esrc/main/java/by/senla/yukhnevich/service/impl/CustomServiceImpl.java,9\1\91f8b4c670a245f645653728e65ec6de8df21dc4
 9
 	start.bat,e\c\ec8a7c93b8071f9609f361cc6ecceaaab0cdcfda
+=
+Senla_ATM.iml,3\7\37d74b85036d0a079b61a4c8def6fdb2a601615e
