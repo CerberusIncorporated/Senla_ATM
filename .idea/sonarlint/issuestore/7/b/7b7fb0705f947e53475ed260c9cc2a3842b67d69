@@ -1,26 +1,0 @@
-
-z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8ÂŸ²Ò†2
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÃŒÞí8²ô¨Ó†2
-G	java:S106"+Replace this use of System.out by a logger.(Ž·”œ8¸ô¨Ó†2
-G	java:S106 "+Replace this use of System.out by a logger.(þóÉ¢8¿ô¨Ó†2
-L	java:S106#"+Replace this use of System.err by a logger.(†³™‹ùÿÿÿÿ8Âô¨Ó†2
-G	java:S106&"+Replace this use of System.out by a logger.(õå¤É8Ãô¨Ó†2
-^
-java:S6353+"<Use concise character class syntax '\\d' instead of '[0-9]'.(ôéˆ‚ýÿÿÿÿ8Çô¨Ó†2
-F	java:S106-"+Replace this use of System.out by a logger.(¯áh8Èô¨Ó†2
-G	java:S1061"+Replace this use of System.err by a logger.(±ï³…8Éô¨Ó†2
-G	java:S1064"+Replace this use of System.err by a logger.(±ï³…8Êô¨Ó†2
-L	java:S1069"+Replace this use of System.err by a logger.(ô³²”üÿÿÿÿ8Íô¨Ó†2
-G	java:S106="+Replace this use of System.err by a logger.(©š¨8´°´Ó†2
-G	java:S106?"+Replace this use of System.out by a logger.(ð‹¹8Ñô¨Ó†2
-G	java:S106G"+Replace this use of System.out by a logger.(•‹®8Ýì³Ó†2
-G	java:S106K"+Replace this use of System.out by a logger.(ª±‹È8èÆäÔ†2
-L	java:S106L"+Replace this use of System.out by a logger.(¢ÿïüÿÿÿÿ8éÆäÔ†2
-G	java:S106M"+Replace this use of System.out by a logger.(âÏÂ¸8éÆäÔ†2
-F	java:S106N"+Replace this use of System.out by a logger.(«—Úv8êÆäÔ†2
-F	java:S106T"+Replace this use of System.out by a logger.(˜×ï[8ëÆäÔ†2
-L	java:S106W"+Replace this use of System.out by a logger.(ŽÙÞµøÿÿÿÿ8ìÆäÔ†2
-G	java:S106\"+Replace this use of System.out by a logger.(„‚‹£8íÆäÔ†2
-L	java:S106a"+Replace this use of System.out by a logger.(·šÕÄþÿÿÿÿ8ïÆäÔ†2
-G	java:S106h"+Replace this use of System.err by a logger.(™†Èþ8ðÆäÔ†2
